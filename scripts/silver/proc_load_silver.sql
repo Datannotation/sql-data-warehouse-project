@@ -7,6 +7,12 @@ Script Purpose:
     It performs the following actions:
     -  Truncates the silver tables before loading data.
     -  Uses the 'INSERT' command to load transformed and cleansed data from bronze tables to silver tables.
+	--  Transformations done:
+				-- Data Cleansing
+				-- Data Standardization
+				-- Data Normalization
+				-- Derived Columns
+				-- Data Enrichment
 	
 PARAMETERS:
     None.
