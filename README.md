@@ -52,6 +52,8 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 <img width="1276" height="737" alt="image" src="https://github.com/user-attachments/assets/9d44df1a-d67a-47f9-9ac3-53005eaa54a9" /> 
 
+**Video demonstration:** https://drive.google.com/file/d/16mBlE719Nl7G1kcb3fQMT4q3XHRDDnwX/view?usp=sharing
+
 ## 📂 Repository Structure
 ```
 sql-data-warehouse-project/
