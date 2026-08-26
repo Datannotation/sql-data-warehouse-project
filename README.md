@@ -43,12 +43,14 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 ### BI: Analytics & Reporting (Data Analysis)
 
 #### Objective
-Develop SQL-based analytics to deliver detailed insights into:
+Develop Power BI Dashboard to deliver detailed insights into:
 - **Customer Behavior**
 - **Product Performance**
 - **Sales Trends**
 
-These insights empower stakeholders with key business metrics, enabling strategic decision-making.  
+These insights empower stakeholders with key business metrics, enabling strategic decision-making. 
+
+<img width="1276" height="737" alt="image" src="https://github.com/user-attachments/assets/9d44df1a-d67a-47f9-9ac3-53005eaa54a9" /> 
 
 ## 📂 Repository Structure
 ```
